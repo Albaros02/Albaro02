@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **albarosuarez02@gmail.com**.
 
-- ⚡ Fun fact **I think that everybody should know what cache is 😅.**
+- ⚡ Fun fact **I think that everybody should know what "cache" is 😅.**
 
 <h3 align="left">About me:</h3>
 <p align="left">
