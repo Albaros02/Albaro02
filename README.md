@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Albaro</h1>
-<h3 align="center">A passionate backend developer from Cuba 🐊</h3>
+<h3 align="center">A passionate developer from Cuba 🐊</h3>
 
 - 🔭 I’m currently working on some ideas that comes up when i'am showering. I don't know what is wrong with my bathroom.
 
